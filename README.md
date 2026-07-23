@@ -29,5 +29,5 @@ pip install opencv-python mediapipe numpy
 - **Click:** When the distance between two selected points is less than 55 pixels, it's considered a click. However, the click is registered only if the time elapsed since the last click is greater than 0.8 (variable cooldown_period) seconds.
 
 ## Preview
-![Uploading image.png…]()
+<img width="822" height="483" alt="image" src="https://github.com/user-attachments/assets/89c35ccd-29c5-4d69-b61c-673a739fd98a" />
 
