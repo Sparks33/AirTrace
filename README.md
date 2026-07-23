@@ -7,6 +7,9 @@ This project is a simple painting application developed using OpenCV and MediaPi
 - **Drawing Tools:** Users can select drawing tools from the tool package, including circles, lines, and rectangles..
 - **Fill Mode:** Users can toggle fill mode for shapes such as rectangles and circles.
 - **Undo Functionality:** Allows users to undo the last drawing action.
+- **Eraser Size:** Can adjust the Eraser size according to your need.
+- **Preview mode:** Can switch between SIM or LIVE mode.
+- **Clear Page:** User can clear the entire canvas using one button.
 - **Real-time Preview:** Drawing actions are displayed in real-time on the canvas.
 
 ## Requirements
